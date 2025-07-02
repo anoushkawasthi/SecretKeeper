@@ -1,0 +1,12 @@
+{
+  "name": "whispers",
+  "version": "1.0.0",
+  "description": "An anonymous secrets board",
+  "license": "ISC",
+  "author": "Anoushka",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "start: server.js"
+  }
+}
